@@ -1,0 +1,2 @@
+kyro=cn.moozlee.serialize.kyro.KyroSerializer
+protostuff=cn.moozlee.serialize.protostuff.ProtostuffSerializer

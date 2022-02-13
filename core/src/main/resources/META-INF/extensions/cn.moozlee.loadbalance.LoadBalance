@@ -1,0 +1,1 @@
+loadBalance=cn.moozlee.loadbalance.impl.ConsistentHashLoadBalance

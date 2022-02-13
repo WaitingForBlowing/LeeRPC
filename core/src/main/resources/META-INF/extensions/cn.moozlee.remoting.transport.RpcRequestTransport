@@ -1,0 +1,2 @@
+socket=cn.moozlee.remoting.transport.socket.SocketRpcClient
+netty=cn.moozlee.remoting.transport.netty.client.NettyRpcClient
